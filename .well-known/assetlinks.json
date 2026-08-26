@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.luisfdelascasas24_creator.twa",
+        "sha256_cert_fingerprints": ["53:9B:27:49:4C:6C:8B:11:A5:49:3B:1B:C1:2E:95:1F:42:16:E5:09:AC:9C:E4:A1:A7:92:6C:8A:B1:82:DC:70"]
+      }
+    }]
